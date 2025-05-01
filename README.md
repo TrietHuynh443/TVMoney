@@ -3,7 +3,7 @@
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
-
+   
 1. Install dependencies
 
    ```bash
@@ -24,27 +24,15 @@ In the output, you'll find options to open the app in a
 - [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Android Studio set up
 
-## Get a fresh project
+- Install Android Studio follow this: [android-install](https://developer.android.com/studio?gad_source=1&gbraid=0AAAAAC-IOZmSpA5uVJmlu8DE6vGE_NrEk&gclid=Cj0KCQjwt8zABhDKARIsAHXuD7aHDl8qslCc-naRl4a58Q-QDJcRxCz5IPTl2BVeF_aJp5tWRQr2jTIaAtuzEALw_wcB&gclsrc=aw.ds&hl=vi)
+- SDK api version 35 above
+- Enumerator config (recommendation):
+  + ![image](https://github.com/user-attachments/assets/4ad6a66e-84b0-4139-afe5-641d6d137456)
+  + ![image](https://github.com/user-attachments/assets/ae0e3859-bd66-4b1c-8e22-96a5abc462e4)
+  + ![image](https://github.com/user-attachments/assets/0a38b2f8-342d-4fc0-b305-1dabee0b79b6)
 
-When you're ready, run:
 
-```bash
-npm run reset-project
-```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
